@@ -19,5 +19,5 @@ This is a Django REST API built as part of an internship entrance challenge.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/taskmanager-backend.git
+   git clone https://github.com/Redieet/taskmanager-backend.git
    cd taskmanager-backend
